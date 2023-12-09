@@ -16,3 +16,4 @@ form.addEventListener('submit', e =>{
     result.classList.remove('d-none');
 
 });
+
